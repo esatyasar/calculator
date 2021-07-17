@@ -7,14 +7,19 @@ Project aims to create a calculator.
 
 Problem Statement
 Your company has recently started on a project that aims to create a calculator. So you and your colleagues have started to work on the project.
+
 Project Skeleton
+
 001-calculator(folder)
+
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----solution
+
         |----index.html  
         |----style.css   
         |----index.js
+        
 Expected Outcome
 Project 002 Snapshot
 
