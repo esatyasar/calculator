@@ -22,6 +22,7 @@ Objective
 Build a Calculator app with 4 operands, minimum 9 digits.
 
 At the end of the project, following topics are to be covered;
+
 HTML
 
 CSS
